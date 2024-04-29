@@ -4,7 +4,7 @@ id: ICOD6938
 
 domain: python programming
 
-duration : 24/04/2024 to 30/04/2024
+duration : 20/04/2024 to 30/04/2024
 
 mentor : sarvani gouni
 
